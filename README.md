@@ -3,6 +3,19 @@ Herramienta de seguridad para entornos AWS, diseñada para analizar la infraestr
 
 <h1 align="center"></h1>
 
+#### ~ Instalación
+
+- [x] Tested on: Kali Linux
+
+```
+• git clone https://github.com/R3LI4NT/AWSecure
+• cd AWSecure
+• python3 -m venv myenv && source myenv/bin/activate
+• pip3 install -r requirements.txt
+```
+
+<h1 align="center"></h1>
+
 #### ~ Algunos ejemplos de uso
 
 - [x] Banner 
