@@ -1,6 +1,4 @@
 # AWSecure
-
-<h1 align="center"></h1>
 <p align="center">
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3-green.svg">
