@@ -1,4 +1,16 @@
 # AWSecure
+
+<h1 align="center"></h1>
+<p align="center">
+    <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3-green.svg">
+  </a>
+    <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
+  </a>
+    <img src="https://img.shields.io/badge/Public-%F0%9F%94%91-red.svg">
+  </a>
+</p>
+
 AWSecure es una herramienta de seguridad de código abierto desarrollada en Python, diseñada para analizar y auditar entornos de infraestructura en Amazon Web Services (AWS). Su objetivo principal es facilitar la identificación de configuraciones inseguras y posibles vulnerabilidades en cuentas y servicios de AWS.
 
 Tenga en cuenta que esta es la primera versión del proyecto. Planeo incorporar nuevas funcionalidades de auditoría, generar reportes de los análisis en formato PDF y reorganizar el código para estructurarlo de manera modular.
