@@ -1,4 +1,7 @@
-# AWSecure
+<p align="center">
+  <img src="https://github.com/R3LI4NT/AWSecure/blob/main/img/AWSecure.png" alt="Purge Logo" Logo" />
+</p>
+
 <p align="center">
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3-green.svg">
