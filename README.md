@@ -7,6 +7,9 @@ Herramienta de seguridad para entornos AWS, diseñada para analizar la infraestr
 
 - [x] Tested on: Kali Linux
 
+> [!IMPORTANT]
+> Antes de ejecutar la herramienta, asegúrate de configurar las credenciales de AWS en la CLI. Estas se almacenan en la ruta: `~/.aws/credentials`.
+
 ```
 • git clone https://github.com/R3LI4NT/AWSecure
 • cd AWSecure
