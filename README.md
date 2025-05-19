@@ -17,7 +17,7 @@ Herramienta de seguridad para entornos AWS, diseñada para analizar la infraestr
 • pip3 install -r requirements.txt
 ```
 
-[^2]: Instalar AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+[^1]: Instalar AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 <h1 align="center"></h1>
 
