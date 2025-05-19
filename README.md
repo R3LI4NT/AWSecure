@@ -1,5 +1,7 @@
 # AWSecure
-Herramienta de seguridad para entornos AWS, diseñada para analizar la infraestructura.
+AWSecure es una herramienta de seguridad de código abierto desarrollada en Python, diseñada para analizar y auditar entornos de infraestructura en Amazon Web Services (AWS). Su objetivo principal es facilitar la identificación de configuraciones inseguras y posibles vulnerabilidades en cuentas y servicios de AWS.
+
+Tenga en cuenta que esta es la primera versión del proyecto. Planeo incorporar nuevas funcionalidades de auditoría, generar reportes de los análisis en formato PDF y reorganizar el código para estructurarlo de manera modular.
 
 <h1 align="center"></h1>
 
@@ -45,3 +47,23 @@ Herramienta de seguridad para entornos AWS, diseñada para analizar la infraestr
 
 - [x] Comprobante de Snapshots sin cifrar 
 ![5](https://github.com/user-attachments/assets/885b5759-c057-4904-a73f-af3b28695b43)
+
+</br>
+
+<h1 align="center"></h1>
+
+En caso de querer contribuir con el proyecto, por favor, contactarme al siguiente correo. Se darán créditos por ello.
+
+<img src="https://img.shields.io/badge/r3li4nt.contact@keemail.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+¡Gracias!
+
+<h1 align="center"></h1>
+
+### Importante
+
+**`ES:`** No me hago responsable del mal uso que se le pueda dar a esta herramienta, úselo para Pentesting o fines educativos.
+
+**`EN:`**  I am not responsible for the misuse that may be given to this tool, use it for Pentesting or educational purposes.
+
+#R3LI4NT
