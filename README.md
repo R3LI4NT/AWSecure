@@ -6,7 +6,7 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3-green.svg">
   </a>
-    <img src="https://img.shields.io/badge/Release-1.0Beta-blue.svg">
+    <img src="https://img.shields.io/badge/Release-1.0 Beta-blue.svg">
   </a>
     <img src="https://img.shields.io/badge/Public-%F0%9F%94%91-red.svg">
   </a>
