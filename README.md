@@ -6,7 +6,7 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3-green.svg">
   </a>
-    <img src="https://img.shields.io/badge/Release-1.0 Beta-blue.svg">
+    <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
     <img src="https://img.shields.io/badge/Public-%F0%9F%94%91-red.svg">
   </a>
@@ -59,6 +59,17 @@ Tenga en cuenta que esta es la primera versión del proyecto. Planeo incorporar 
 
 - [x] Comprobante de Snapshots sin cifrar 
 ![5](https://github.com/user-attachments/assets/885b5759-c057-4904-a73f-af3b28695b43)
+
+<h1 align="center"></h1>
+
+- [x] Reportes HTML interactivos
+
+![report-1](https://github.com/user-attachments/assets/07aa0ea3-5b04-4ad8-9e04-ee4b45130396)
+![report-2](https://github.com/user-attachments/assets/0514df42-06ad-40e6-8f3e-6803e8323f26)
+![report-3](https://github.com/user-attachments/assets/e3abce2c-40c8-4143-90df-c97a760e3550)
+![report-4](https://github.com/user-attachments/assets/4ec94aef-9575-4eac-af90-73c6a7224d4c)
+![report-5](https://github.com/user-attachments/assets/341f3eb2-acd8-442c-96cf-1dee90ec6f99)
+![report-6](https://github.com/user-attachments/assets/ef2b90ce-3d28-498b-bf64-1b05a980d738)
 
 </br>
 
