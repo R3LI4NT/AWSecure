@@ -42,7 +42,7 @@ Tenga en cuenta que esta es la primera versión del proyecto. Planeo incorporar 
 #### ~ Algunos ejemplos de uso
 
 - [x] Banner 
-![1](https://github.com/user-attachments/assets/cd066931-919c-4654-9b94-583efeef76b2)
+![1](https://github.com/user-attachments/assets/6d70e1e6-42b2-4dca-af3f-435e3b0f42e6)
 
 <h1 align="center"></h1>
 
